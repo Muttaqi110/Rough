@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+#Heading{
+    text-align: center;
+    font-size: 50px;
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.td1{
+    width: 130px;
+    height: 130px;
+}
+
+table{
+    margin: 0 auto;
+    margin-bottom: -500px;
+    text-align: center;
+}
+
+.b1{
+    background-color: darkblue;
+    color: darkblue;
+    width: 130px;
+    height: 130px;
+    /* background-image: url('downlo.ad.png'); */
+}
+
+#he1{
+    margin-bottom: -20px;
+    color: white;
+}
+
+#restartButton{
+    color: white;
+    background-color: purple;
+    margin-top: -500px;
+    height: 150px;
+    width: 150px;
+    font-size: 30px;
+    margin-left: 1000px;
+}
+ 
+#he{
+    color: white;
+
+} 
